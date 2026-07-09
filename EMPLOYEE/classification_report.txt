@@ -1,0 +1,14 @@
+HYBRID MODEL - CLASSIFICATION REPORT
+==================================================
+              precision    recall  f1-score   support
+
+        Stay       0.70      0.90      0.78       197
+   Attrition       0.57      0.25      0.35       103
+
+    accuracy                           0.68       300
+   macro avg       0.63      0.58      0.57       300
+weighted avg       0.65      0.68      0.64       300
+
+
+Overall workforce attrition rate: 34.40%
+5-fold CV ROC-AUC: 0.6749 (+/- 0.0385)
